@@ -1,24 +1,635 @@
 source,target,value
-France,Germany,33
-Germany,Japan,31
-Germany,Italy,28
-China,Japan,23
-Germany,Russia,19
-Japan,Russia,18
-China,Germany,18
-France,Italy,13
-Italy,Japan,12
-China,Russia,11
-China,France,9
+France,Germany,32
+Germany,Italy,31
+Germany,Japan,29
+Germany,Poland,22
+China,Japan,19
+Italy,Japan,15
+Czechoslovakia,Yugoslavia,15
+Japan,Russia,15
+India,Pakistan,14
+Czechoslovakia,Germany,14
+France,Poland,14
+Germany,Russia,13
+Germany,Iran,13
+Japan,Philippines,13
+India,Japan,13
+China,India,12
+France,Italy,12
+Germany,Norway,12
+China,North Korea,12
+Iran,Japan,11
+China,Germany,11
+Germany,Yugoslavia,11
+Germany,USSR,11
+North Korea,Vietnam,11
+USSR,Yugoslavia,11
+Israel,Japan,10
+Germany,India,10
+Latvia,Lithuania,10
+Finland,Germany,10
+China,Poland,10
+Czechoslovakia,Poland,10
+Albania,Yugoslavia,10
+Estonia,Lithuania,10
+Germany,Greece,10
+Cambodia,Vietnam,10
+Lithuania,USSR,10
+Austria,Germany,10
+Estonia,Latvia,10
+Lithuania,Poland,9
+North Korea,Russia,9
+Estonia,Finland,9
+Germany,Great Britain,9
+Finland,Latvia,9
+Germany,Israel,9
+Finland,Lithuania,9
+Latvia,Poland,9
+India,Russia,9
+Poland,Soviet Union,9
+Estonia,Poland,9
+China,Russia,9
 France,Japan,9
-Germany,Soviet Union,8
-France,Soviet Union,8
-France,Russia,7
-Italy,Russia,7
-China,Soviet Union,6
-Japan,Soviet Union,6
-China,USA,5
+Greece,Italy,9
+Finland,Poland,9
+Cuba,Vietnam,9
+Iran,Libya,8
+China,South Africa,8
+Germany,Pakistan,8
+Japan,Poland,8
+Iran,Israel,8
+Czechoslovakia,USSR,8
+Czechoslovakia,North Korea,8
+India,South Africa,8
+Latvia,Soviet Union,8
+Germany,Libya,8
+India,North Korea,8
+Lithuania,Soviet Union,8
+North Korea,Romania,8
+Pakistan,Philippines,8
+North Korea,USSR,8
+Finland,USSR,8
+Estonia,Soviet Union,8
+North Korea,Yugoslavia,8
+USSR,United States,8
+Poland,USSR,8
+Cuba,United States,7
+Japan,Libya,7
+Japan,Pakistan,7
+Albania,USSR,7
+Finland,Soviet Union,7
+France,Great Britain,7
+Cuba,USSR,7
+United States,Vietnam,7
+Germany,Ukraine,7
+India,Israel,7
+India,Philippines,7
+France,Soviet Union,7
+Canada,USSR,7
+Pakistan,Russia,7
+Denmark,Germany,7
+Romania,Vietnam,7
+Austria,Czechoslovakia,7
+Denmark,Norway,7
+North Korea,South Africa,7
+India,Vietnam,6
+France,Greece,6
+North Korea,Poland,6
+Germany,North Korea,6
+Latvia,USSR,6
+France,India,6
+North Korea,Pakistan,6
+Egypt,Libya,6
+India,Iran,6
+Israel,Pakistan,6
+Iran,Russia,6
+China,USSR,6
+Finland,France,6
+Finland,Yugoslavia,6
+Estonia,USSR,6
+Czechoslovakia,Finland,6
+China,France,6
+Czechoslovakia,Soviet Union,6
+Russia,South Africa,6
+Soviet Union,USSR,6
+Russia,USSR,6
+France,Israel,6
+USSR,Vietnam,6
+France,Russia,6
+China,Lithuania,6
+South Korea,Vietnam,6
+Canada,United States,6
+Finland,Norway,6
+Czechoslovakia,France,6
+China,Pakistan,5
+Hungary,Yugoslavia,5
+China,Mongolia,5
+France,Libya,5
+China,Vietnam,5
+Czechoslovakia,Romania,5
+France,North Korea,5
+France,Norway,5
+France,Pakistan,5
+Estonia,Romania,5
+France,South Africa,5
+Estonia,Germany,5
+Germany,Latvia,5
+Germany,Lithuania,5
+Germany,South Africa,5
+Germany,Soviet Union,5
+Germany,Spain,5
+Germany,Sweden,5
+Ghana,Kenya,5
+China,Yugoslavia,5
+Great Britain,Greece,5
+Czechoslovakia,Hungary,5
+Great Britain,Japan,5
+Finland,Romania,5
+Great Britain,North Korea,5
+Great Britain,Vietnam,5
+Cuba,North Korea,5
+France,Iran,5
+Cuba,Mongolia,5
+Greece,Yugoslavia,5
+Hungary,Poland,5
+Hungary,Romania,5
+Czechoslovakia,Spain,5
+China,Cuba,5
+Japan,Solomon Islands,5
+Bulgaria,Hungary,5
+Philippines,Singapore,5
+Bulgaria,Czechoslovakia,5
+Philippines,Thailand,5
+Philippines,Vietnam,5
+Poland,Romania,5
+Japan,USSR,5
 Japan,USA,5
-Russia,Soviet Union,5
-Germany,USA,2
-China,Italy,1
+Japan,Singapore,5
+Albania,Romania,5
+Albania,Poland,5
+Japan,Thailand,5
+Japan,South Africa,5
+Australia,Vietnam,5
+Bulgaria,Poland,5
+Laos,Vietnam,5
+Latvia,Romania,5
+Algeria,Italy,5
+Algeria,Morocco,5
+Belarus,Ukraine,5
+China,Israel,5
+Lithuania,Romania,5
+Lithuania,Russia,5
+Australia,Canada,5
+Luxembourg,Netherlands,5
+Mongolia,North Korea,5
+Australia,Great Britain,5
+Australia,Japan,5
+Australia,Philippines,5
+North Korea,United States,5
+Mongolia,Vietnam,5
+North Korea,South Korea,5
+Bulgaria,Romania,5
+Austria,France,5
+Albania,Greece,5
+Romania,Yugoslavia,5
+Canada,Russia,5
+Canada,Great Britain,5
+Albania,Bulgaria,5
+Canada,Vietnam,5
+Albania,Czechoslovakia,5
+South Korea,United States,5
+Poland,Yugoslavia,5
+Israel,North Korea,5
+Israel,Russia,5
+China,Czechoslovakia,5
+Singapore,Thailand,5
+Iran,Pakistan,5
+Canada,Japan,5
+Israel,South Africa,5
+Romania,Soviet Union,5
+Bulgaria,Yugoslavia,5
+Japan,North Korea,5
+Italy,Yugoslavia,5
+Ukraine,Yugoslavia,5
+Cambodia,Laos,5
+Romania,Russia,5
+Italy,Philippines,5
+Iran,Iraq,5
+Albania,Hungary,5
+Italy,Morocco,5
+North Korea,Rwanda,4
+France,USSR,4
+France,Spain,4
+USSR,Ukraine,4
+France,Lithuania,4
+Pakistan,South Africa,4
+Norway,Poland,4
+Norway,Sweden,4
+France,Guinea-Bissau,4
+Soviet Union,Yugoslavia,4
+France,Seychelles,4
+South Korea,USSR,4
+Rwanda,South Africa,4
+Poland,Spain,4
+Poland,Vietnam,4
+France,Latvia,4
+India,Papua New Guinea,4
+Libya,Ukraine,4
+Netherlands,Sweden,4
+Hungary,Lithuania,4
+Great Britain,Libya,4
+Japan,Papua New Guinea,4
+Great Britain,South Korea,4
+Great Britain,USSR,4
+Italy,Russia,4
+Greece,USSR,4
+Guinea-Bissau,Soviet Union,4
+Hungary,Latvia,4
+Hungary,Mongolia,4
+Mongolia,Yugoslavia,4
+Hungary,North Korea,4
+Hungary,Soviet Union,4
+Israel,Libya,4
+Iraq,Japan,4
+Hungary,Vietnam,4
+Iran,South Africa,4
+India,Lebanon,4
+India,Singapore,4
+Great Britain,Iran,4
+Ghana,Vietnam,4
+Ghana,Seychelles,4
+Ghana,Laos,4
+Mongolia,USSR,4
+Mongolia,Romania,4
+Mongolia,Poland,4
+Germany,Luxembourg,4
+Germany,Morocco,4
+Germany,Netherlands,4
+Luxembourg,Sweden,4
+Lithuania,Yugoslavia,4
+Germany,Philippines,4
+Libya,South Africa,4
+Libya,Russia,4
+Lebanon,Vietnam,4
+Latvia,Yugoslavia,4
+Laos,Philippines,4
+Kenya,Vietnam,4
+Kenya,Seychelles,4
+Kenya,Laos,4
+Germany,Iraq,4
+Vietnam,Yugoslavia,4
+China,Hungary,4
+Bulgaria,Lithuania,4
+Belarus,Egypt,4
+Bulgaria,North Korea,4
+Bulgaria,Soviet Union,4
+Austria,USSR,4
+Bulgaria,Vietnam,4
+Czechoslovakia,Vietnam,4
+Cambodia,Ghana,4
+Austria,Finland,4
+Cuba,Hungary,4
+Australia,South Korea,4
+Denmark,Poland,4
+Denmark,Sweden,4
+Egypt,Germany,4
+Egypt,Iran,4
+Egypt,Iraq,4
+Bulgaria,Mongolia,4
+Czechoslovakia,Mongolia,4
+Cuba,Czechoslovakia,4
+Bulgaria,Latvia,4
+Belgium,Netherlands,4
+Belgium,Luxembourg,4
+Cuba,Romania,4
+Bulgaria,Cuba,4
+Belgium,France,4
+Cuba,Yugoslavia,4
+Czechoslovakia,Estonia,4
+Cuba,Poland,4
+Bulgaria,Estonia,4
+Bulgaria,Finland,4
+Belarus,USSR,4
+Czechoslovakia,Italy,4
+Czechoslovakia,Latvia,4
+Belarus,Libya,4
+Czechoslovakia,Lithuania,4
+Cambodia,Philippines,4
+Cambodia,Kenya,4
+Bulgaria,China,4
+Albania,North Korea,4
+Albania,Finland,4
+Albania,Estonia,4
+Canada,South Korea,4
+Albania,Cuba,4
+Albania,Germany,4
+Egypt,Ukraine,4
+China,USA,4
+Albania,Latvia,4
+Finland,Hungary,4
+Albania,Lithuania,4
+Albania,China,4
+Albania,Mongolia,4
+China,Romania,4
+Estonia,Hungary,4
+Afghanistan,Romania,4
+Finland,North Korea,4
+Algeria,Germany,4
+Afghanistan,Philippines,4
+Estonia,France,4
+Albania,Vietnam,4
+Estonia,Yugoslavia,4
+Afghanistan,Russia,4
+Canada,Cuba,4
+Albania,Soviet Union,4
+India,USA,3
+China,Finland,3
+Kenya,Philippines,3
+China,Great Britain,3
+India,Rwanda,3
+Laos,Seychelles,3
+Laos,Pakistan,3
+Cambodia,Seychelles,3
+Japan,United States,3
+Finland,Vietnam,3
+Israel,Philippines,3
+Cambodia,Pakistan,3
+Iraq,Russia,3
+Belgium,Sweden,3
+Iraq,Libya,3
+Cambodia,India,3
+Cambodia,Great Britain,3
+China,Estonia,3
+Japan,Lithuania,3
+Cambodia,Cuba,3
+Cambodia,Canada,3
+Bulgaria,USSR,3
+Iran,North Korea,3
+Canada,North Korea,3
+Canada,Lithuania,3
+France,Ghana,3
+Latvia,Mongolia,3
+Romania,USSR,3
+Australia,Singapore,3
+Australia,North Korea,3
+Pakistan,Papua New Guinea,3
+Australia,Cambodia,3
+Pakistan,Vietnam,3
+Philippines,Romania,3
+Philippines,Russia,3
+Philippines,Solomon Islands,3
+Albania,Ukraine,3
+Albania,Great Britain,3
+Latvia,North Korea,3
+Russia,Ukraine,3
+Russia,United States,3
+Russia,Vietnam,3
+Rwanda,Yugoslavia,3
+Seychelles,Vietnam,3
+Soviet Union,Vietnam,3
+Albania,Belarus,3
+Afghanistan,Pakistan,3
+Afghanistan,North Korea,3
+Australia,Solomon Islands,3
+North Korea,Soviet Union,3
+Australia,Thailand,3
+Australia,United States,3
+Belgium,Germany,3
+Latvia,Vietnam,3
+Lebanon,Singapore,3
+Libya,North Korea,3
+Libya,Pakistan,3
+Belarus,Yugoslavia,3
+Libya,USSR,3
+Lithuania,Mongolia,3
+China,Iran,3
+Belarus,Greece,3
+Lithuania,Vietnam,3
+Austria,Yugoslavia,3
+Luxembourg,Norway,3
+Austria,Spain,3
+Mongolia,South Korea,3
+Mongolia,Soviet Union,3
+Mongolia,United States,3
+Austria,Norway,3
+Netherlands,Norway,3
+Lithuania,North Korea,3
+Italy,Norway,3
+France,Kenya,3
+Denmark,Luxembourg,3
+Ghana,Philippines,3
+Great Britain,United States,3
+Guinea-Bissau,Seychelles,3
+Estonia,Guinea-Bissau,3
+Cuba,Latvia,3
+Great Britain,Yugoslavia,3
+Denmark,Netherlands,3
+Hungary,USSR,3
+Guinea-Bissau,Latvia,3
+China,United States,3
+France,Luxembourg,3
+Estonia,Mongolia,3
+Cuba,Estonia,3
+Greece,Ukraine,3
+Cuba,Finland,3
+Finland,Guinea-Bissau,3
+Cuba,Lithuania,3
+Czechoslovakia,Rwanda,3
+Cuba,South Korea,3
+Egypt,Japan,3
+India,Libya,3
+Estonia,Vietnam,3
+Estonia,North Korea,3
+Egypt,USSR,3
+Great Britain,Israel,3
+China,Libya,3
+Great Britain,India,3
+Great Britain,South Africa,3
+France,Netherlands,3
+India,Laos,3
+China,Latvia,3
+Guinea-Bissau,Lithuania,3
+Cuba,Soviet Union,3
+China,Rwanda,3
+Guinea-Bissau,Romania,3
+China,South Korea,3
+China,Soviet Union,3
+Finland,Mongolia,3
+Great Britain,Italy,3
+Ghana,India,2
+Czechoslovakia,South Africa,2
+Ghana,Guinea-Bissau,2
+India,Poland,2
+Lithuania,United States,2
+Belarus,Germany,2
+Romania,South Korea,2
+Romania,United States,2
+Albania,Guinea-Bissau,2
+Czechoslovakia,South Korea,2
+Ghana,Pakistan,2
+Libya,Yugoslavia,2
+France,Romania,2
+Czechoslovakia,Guinea-Bissau,2
+Albania,Libya,2
+Morocco,Russia,2
+Germany,Thailand,2
+Poland,South Korea,2
+Philippines,Seychelles,2
+France,Vietnam,2
+Albania,United States,2
+Papua New Guinea,Philippines,2
+Afghanistan,India,2
+Algeria,Japan,2
+Algeria,Russia,2
+Pakistan,Romania,2
+Pakistan,Poland,2
+Egypt,Russia,2
+Poland,Russia,2
+Norway,USSR,2
+Australia,Cuba,2
+Egypt,Greece,2
+Czechoslovakia,Ukraine,2
+Albania,South Korea,2
+Germany,Papua New Guinea,2
+Australia,USSR,2
+France,Sweden,2
+North Korea,Philippines,2
+Austria,Italy,2
+Austria,North Korea,2
+Denmark,Finland,2
+France,Papua New Guinea,2
+Germany,Singapore,2
+Austria,Poland,2
+Poland,United States,2
+Czechoslovakia,United States,2
+Belgium,Denmark,2
+Seychelles,Soviet Union,2
+Guinea-Bissau,Yugoslavia,2
+Guinea-Bissau,Poland,2
+Japan,Morocco,2
+Guinea-Bissau,Vietnam,2
+Cambodia,France,2
+Italy,Thailand,2
+Italy,Singapore,2
+Cuba,Japan,2
+Albania,Egypt,2
+Cuba,Great Britain,2
+South Korea,Yugoslavia,2
+Israel,Poland,2
+France,Laos,2
+Hungary,South Korea,2
+Cambodia,South Korea,2
+Finland,Italy,2
+Hungary,United States,2
+Cambodia,United States,2
+Iraq,Italy,2
+Afghanistan,Vietnam,2
+Canada,China,2
+Iran,Philippines,2
+Iran,Italy,2
+India,Kenya,2
+France,Hungary,2
+India,Lithuania,2
+India,Solomon Islands,2
+United States,Yugoslavia,2
+China,Italy,2
+Bulgaria,United States,2
+Egypt,Yugoslavia,2
+Rwanda,USSR,2
+Kenya,Pakistan,2
+Belgium,Norway,2
+Greece,Libya,2
+Bulgaria,South Korea,2
+Greece,Norway,2
+Great Britain,Russia,2
+Singapore,Vietnam,2
+Guinea-Bissau,Hungary,2
+Cuba,Russia,2
+Great Britain,Papua New Guinea,2
+Guinea-Bissau,Kenya,2
+Bulgaria,Guinea-Bissau,2
+Great Britain,Pakistan,2
+Lebanon,North Korea,2
+South Africa,Yugoslavia,2
+France,Philippines,1
+Singapore,Solomon Islands,1
+Finland,South Korea,1
+France,Ukraine,1
+Estonia,South Korea,1
+Finland,United States,1
+Finland,Seychelles,1
+France,Yugoslavia,1
+South Korea,Soviet Union,1
+Albania,Italy,1
+Poland,South Africa,1
+Russia,Rwanda,1
+Soviet Union,United States,1
+Estonia,Seychelles,1
+Estonia,Norway,1
+Soviet Union,Spain,1
+Poland,Sweden,1
+Poland,USA,1
+Romania,Seychelles,1
+Solomon Islands,Thailand,1
+Finland,Greece,1
+Albania,France,1
+South Africa,USSR,1
+Estonia,United States,1
+Belarus,Great Britain,1
+Germany,Hungary,1
+Latvia,United States,1
+Latvia,Seychelles,1
+Latvia,Norway,1
+Great Britain,Ukraine,1
+Laos,Papua New Guinea,1
+Kenya,Soviet Union,1
+Bulgaria,France,1
+Guinea-Bissau,Laos,1
+Guinea-Bissau,Mongolia,1
+Guinea-Bissau,North Korea,1
+Italy,Ukraine,1
+Cambodia,Guinea-Bissau,1
+Cuba,Guinea-Bissau,1
+Cambodia,North Korea,1
+Hungary,Russia,1
+Cambodia,Papua New Guinea,1
+Israel,Italy,1
+Iraq,Ukraine,1
+Hungary,Ukraine,1
+Iran,Ukraine,1
+Iran,Papua New Guinea,1
+Canada,Mongolia,1
+India,Yugoslavia,1
+India,USSR,1
+China,Guinea-Bissau,1
+India,Seychelles,1
+Latvia,South Korea,1
+Lebanon,Romania,1
+Papua New Guinea,Vietnam,1
+Lebanon,Russia,1
+Pakistan,Seychelles,1
+Norway,Yugoslavia,1
+Australia,China,1
+Australia,Mongolia,1
+Egypt,Italy,1
+Denmark,Lithuania,1
+Denmark,Latvia,1
+Denmark,France,1
+Austria,Hungary,1
+Denmark,Estonia,1
+Austria,Russia,1
+Austria,Rwanda,1
+Austria,Ukraine,1
+India,Romania,1
+Lithuania,South Korea,1
+Lithuania,South Africa,1
+Lithuania,Seychelles,1
+Czechoslovakia,Norway,1
+Belarus,Iran,1
+Belarus,Iraq,1
+Lithuania,Norway,1
+Ghana,Soviet Union,1
+Czechoslovakia,India,1
+Libya,Papua New Guinea,1
+Great Britain,Mongolia,1
+Afghanistan,Germany,1
